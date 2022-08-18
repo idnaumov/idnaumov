@@ -4,7 +4,7 @@
 - 💞️ I also have a bit of back-end development
 - 🌱 I know how to work with PHP, MYSQL, MongoDB
 
-# Contact with me:
+#  :iphone:Contact with me:
 - Telegram: [@IDNaumov](https://t.me/IDNaumov)
 - VK: [@dbright](https://vk.com/dbright)
 
