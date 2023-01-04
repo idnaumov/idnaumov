@@ -5,7 +5,7 @@
 - 🌱 I know how to work with PHP, MYSQL, MongoDB
 
 #  :iphone:Contact with me:
-- Telegram: [@IDNaumov](https://t.me/IDNaumov)
+- Telegram: [@dnmv_dev](https://t.me/dnmv_dev)
 - VK: [@dbright](https://vk.com/dbright)
 
 <!---
