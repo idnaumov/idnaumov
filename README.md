@@ -1,8 +1,6 @@
-# 👋 Hi, I’m Dmitry
-- 👀 I’m front-end developer
-- 🌱 I know how to work with these frameworks - React.JS, Vue JS
-- 💞️ I also have a bit of back-end development
-- 🌱 I know how to work with PHP, MYSQL, MongoDB
+# 👋 Hello, I'm Dmitry, a passionate Front-End Developer crafting digital experiences with precision and creativity.
+- 👀 I specialize in front-end development, breathing life into web applications with elegant interfaces and seamless interactions.
+- 🌱  Proficient in harnessing the power of Vue.JS, I bring dynamic and responsive functionality to projects, ensuring they captivate and engage users.
 
 # :iphone: Contact with me:
 - Telegram: [@dnmv_dev](https://t.me/dnmv_dev)
