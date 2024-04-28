@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dmitry, a passionate Front-End Developer crafting digital experiences with precision and creativity.
+# 👋 Hello, I'm Dmitry, Front-End Developer crafting digital experiences with precision and creativity.
 - 👀 I specialize in front-end development, breathing life into web applications with elegant interfaces and seamless interactions.
 - 🌱  Proficient in harnessing the power of Vue.JS, I bring dynamic and responsive functionality to projects, ensuring they captivate and engage users.
 
