@@ -4,7 +4,7 @@
 
 # :iphone: Contact with me:
 - Telegram: [@dnmv_dev](https://t.me/dnmv_dev)
-- VK: [@dbright](https://vk.com/dbright)
+<!--- - VK: [@dbright](https://vk.com/dbright)
 
 <!---
 idnaumov/idnaumov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
